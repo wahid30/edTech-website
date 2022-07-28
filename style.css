@@ -1,7 +1,11 @@
-.carousel-custom-article {
-  text-align: center;
-  height: 400px;
+.custom-image {
+  filter: brightness(50%);
 }
+.carousel-item img {
+  height: 700px;
+  max-height: 100vh;
+}
+
 .carousel-custom-heading {
   font-size: 70px;
 }
@@ -23,7 +27,7 @@ footer {
   .carousel-custom-heading {
     font-size: 40px;
   }
-  .carousel-custom-article {
+  /* .carousel-custom-article {
     height: 300px;
-  }
+  } */
 }
