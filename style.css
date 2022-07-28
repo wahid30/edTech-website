@@ -1,3 +1,18 @@
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2&display=swap");
+h1 {
+  font-family: "Ibarra Real Nova", serif;
+}
+h2,
+h3 {
+  font-family: "Dosis", sans-serif;
+}
+p,
+a {
+  font-family: "Exo 2", sans-serif;
+}
 .custom-image {
   filter: brightness(50%);
 }
